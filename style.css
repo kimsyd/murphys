@@ -1,0 +1,11 @@
+#topmenu {
+  background-color: darkgreen;
+  height: 100px;
+}
+
+.background {
+  justify-content: center;
+  background: url("http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  height: 600px;
+}
